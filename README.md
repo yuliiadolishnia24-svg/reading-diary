@@ -13,6 +13,19 @@ A simple web application built with Angular to track the books you read. You can
 - Local storage support to save entries between sessions.
 
 
+Technologies
+
+Angular
+
+TypeScript
+
+HTML & CSS
+
+Author
+
+Yuliia Dolishnia
+
+
 ## Installation
 
 1. Clone the repository:
@@ -37,17 +50,6 @@ ng serve
 
 Open your browser at http://localhost:4200/.
 
-Technologies
-
-Angular
-
-TypeScript
-
-HTML & CSS
-
-Author
-
-Yuliia Dolishnia
 
 
 ---
