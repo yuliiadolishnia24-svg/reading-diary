@@ -1,59 +1,105 @@
-# ReadingDiary
+English Version
+# 📖 Reading Diary
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.6.
+A simple web application built with Angular to track the books you read. You can add books, rate them, leave a review, and manage your reading diary easily.
 
-## Development server
+## Features
 
-To start a local development server, run:
+- Add a new book with title, author, image, and review.
+- Rate books with a star rating system.
+- Edit or delete existing book entries.
+- View a list of all books with expandable details.
+- Tracks the number of books read.
+- Local storage support to save entries between sessions.
 
+
+## Installation
+
+1. Clone the repository:
 ```bash
+git clone https://github.com/yuliiadolishnia24-svg/reading-diary.git
+
+
+Navigate to the project folder:
+
+cd reading-diary
+
+
+Install dependencies:
+
+npm install
+
+
+Run the application:
+
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+Open your browser at http://localhost:4200/.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Technologies
 
+Angular
+
+TypeScript
+
+HTML & CSS
+
+Author
+
+Yuliia Dolishnia
+
+
+---
+
+# Українська версія
+
+# 📖 Читальний Щоденник
+
+Простий веб-додаток на Angular для ведення обліку прочитаних книг. Ви можете додавати книги, оцінювати їх, залишати відгуки та легко керувати своїм щоденником читання.
+
+## Можливості
+
+- Додавання нової книги: назва, автор, зображення та відгук.
+- Оцінювання книг за допомогою системи зірок.
+- Редагування або видалення існуючих записів.
+- Перегляд списку всіх книг з можливістю розгортання деталей.
+- Відображення кількості прочитаних книг.
+- Збереження записів у Local Storage між сесіями.
+
+
+## Встановлення
+
+1. Клонувати репозиторій:
 ```bash
-ng generate component component-name
-```
+git clone https://github.com/yuliiadolishnia24-svg/reading-diary.git
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-```bash
-ng generate --help
-```
+Перейти до папки проєкту:
 
-## Building
+cd reading-diary
 
-To build the project run:
 
-```bash
-ng build
-```
+Встановити залежності:
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+npm install
 
-## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Запустити додаток:
 
-```bash
-ng test
-```
+ng serve
 
-## Running end-to-end tests
 
-For end-to-end (e2e) testing, run:
+Відкрити у браузері http://localhost:4200/.
 
-```bash
-ng e2e
-```
+Технології
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Angular
 
-## Additional Resources
+TypeScript
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+HTML & CSS
+
+Автор
+
+Юлія Долішня
